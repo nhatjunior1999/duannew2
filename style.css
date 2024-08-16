@@ -1,0 +1,28 @@
+body {
+  background-image: url(./img/nhatdz.jpg);
+  background-size: cover; /* Tùy chọn để hình ảnh phủ kín toàn bộ màn hình */
+  background-repeat: no-repeat; /* Không lặp lại hình ảnh */
+  background-position: center; /* Căn giữa hình ảnh */
+}
+
+* {
+  color: brown;
+  font-size: 24px;
+  font-style: italic;
+  display: block;
+}
+#nhat_1 {
+  color: blueviolet;
+  font-size: 30px;
+  font-style: initial;
+}
+.nhat_2 {
+  color: rgb(6, 74, 222);
+  font-size: 45px;
+}
+#nhat_8 {
+  list-style: none;
+}
+h2.nhat_2 {
+  color: blue;
+}
